@@ -1,0 +1,41 @@
+.sky{
+    border: 8px solid;
+    height: 100vh;
+    width: 99%;
+    border-color: white green white orange;
+    background-image: url(./sky.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.heading1{
+    font-size: 36PX;
+    font-weight: bold;
+  
+    color: black;
+    background-color: orange;
+}
+.heading2{
+    font-size: 36PX;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    margin: 0px 8px;
+}
+.heading3{
+    font-size: 36PX;
+    font-weight: bold;
+    color: black;
+    background-color: green;
+}
+.road{
+    background-image: url(./road.jpg);
+    height: 20vh;
+    width: 400%;
+    bottom: 0;
+    left: 0;
+}
